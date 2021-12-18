@@ -1,0 +1,7 @@
+C:\Users\ktemi\source\repos\MiniATM\MiniATM\obj\Debug\MiniATM.csproj.AssemblyReference.cache
+C:\Users\ktemi\source\repos\MiniATM\MiniATM\obj\Debug\MiniATM.csproj.CoreCompileInputs.cache
+C:\Users\ktemi\source\repos\MiniATM\MiniATM\bin\Debug\MiniATM.exe.config
+C:\Users\ktemi\source\repos\MiniATM\MiniATM\bin\Debug\MiniATM.exe
+C:\Users\ktemi\source\repos\MiniATM\MiniATM\bin\Debug\MiniATM.pdb
+C:\Users\ktemi\source\repos\MiniATM\MiniATM\obj\Debug\MiniATM.exe
+C:\Users\ktemi\source\repos\MiniATM\MiniATM\obj\Debug\MiniATM.pdb
