@@ -1,1 +1,2 @@
 # MiniATM
+Very first app
