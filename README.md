@@ -1,2 +1,2 @@
 # MiniATM
-Very first app
+Very first app, made with c# console.
